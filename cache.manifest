@@ -3,7 +3,6 @@ CACHE MANIFEST
 CACHE: 
 alert.mjs
 config.mjs
-img.jpg
 index.html
 lapse.mjs
 payload.bin
