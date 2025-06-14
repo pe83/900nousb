@@ -1,9 +1,10 @@
 CACHE MANIFEST 
+
 CACHE: 
 alert.mjs
 config.mjs
+img.jpg
 index.html
-cache.html
 lapse.mjs
 payload.bin
 psfree.mjs
